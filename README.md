@@ -21,4 +21,4 @@ Contributing
 
 We welcome contributions from the community to help improve the game and make it even more fun and immersive. If you're interested in contributing, please check out our GitHub repository and feel free to submit pull requests or open issues. We're also open to collaboration with other blockchain projects and game developers.
 
-##We hope you enjoy playing the ThirdWeb Metaverse and building your own online shop in the virtual world we've created. Join us in the Metaverse today!
+## We hope you enjoy playing the ThirdWeb Metaverse and building your own online shop in the virtual world we've created. Join us in the Metaverse today!
