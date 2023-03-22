@@ -1,7 +1,8 @@
-#ThirdWeb Metaverse
+### ThirdWeb Metaverse
 
 The ThirdWeb Metaverse is an immersive, blockchain-based game where players can buy virtual plots of land and build their own online shops. The game is built on the ThirdWeb API, which allows for decentralized ownership and control of in-game assets.
-#Gameplay
+
+### Gameplay
 
 Players start off by creating their own avatar and purchasing a virtual plot of land using cryptocurrency. They can then customize their plot of land by building and designing their own online shop, using a variety of in-game tools and assets.
 
@@ -11,7 +12,7 @@ As players progress through the game, they can earn in-game currency and collect
 
 In addition to building and selling, players can also explore the virtual world and visit other players' shops. The game also features a social hub where players can meet up and hang out with each other.
 
-#Technology
+### Technology
 
 The ThirdWeb Metaverse is built on a custom game engine that supports advanced graphics and physics, as well as blockchain integration through the ThirdWeb API. The game utilizes smart contracts and decentralized storage to ensure that in-game assets are secure and cannot be manipulated.
 
